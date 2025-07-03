@@ -1,4 +1,4 @@
 # coder079demo
 That's my first github repository.
 <br>
-Author: Waleed Ali
+Author: Waleed Ali (developer)
